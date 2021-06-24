@@ -1,9 +1,9 @@
 # Contributors
 - [David Fraser](https://github.com/DavidMatthewFraser)
-- [Deepshikha](https://github.com/14deepshikha)
 - [Selahittin Saytaş](https://github.com/saytas)
 - [Ankit Bhardwaj](https://github.com/theankitbhardwaj)
 - Andrew Scott
+- Deepshikha
 - [Mihir Sachdeva](https://github.com/mihirsachdeva)
 - [Joseph Cooper](https://github.com/Hamblok0)
 - [Hunter Wilkins](https://github.com/galaxyproduction)
